@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RandomGenerator.Core/RandomGenerator.Core.csproj" />
+  <Project Path="RandomNumberGenerator.UI/RandomNumberGenerator.UI.csproj" />
+  <Project Path="RandomNumberGenerator.ViewModel/RandomNumberGenerator.ViewModel.csproj" />
+</Solution>
