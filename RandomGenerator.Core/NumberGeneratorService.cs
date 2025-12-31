@@ -10,7 +10,7 @@
 
         public int GenerateRandomNumber(int min, int max)
         {
-            return _random.Next(min, max);
+            return _random.Next(min, max + 1);
         }
     }
 }
